@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf2fd682.chunk.css",
+    "main.js": "/static/js/main.997792cc.chunk.js",
+    "main.js.map": "/static/js/main.997792cc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3f7397f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3f7397f6.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.e6820c0f.chunk.js": "/static/js/2.e6820c0f.chunk.js",
+    "static/js/2.e6820c0f.chunk.js.map": "/static/js/2.e6820c0f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.cf2fd682.chunk.css.map": "/static/css/main.cf2fd682.chunk.css.map",
+    "static/js/2.e6820c0f.chunk.js.LICENSE.txt": "/static/js/2.e6820c0f.chunk.js.LICENSE.txt",
+    "static/media/Make-Strawberry-Season-Last-All-Year.c2b190e9.jpeg": "/static/media/Make-Strawberry-Season-Last-All-Year.c2b190e9.jpeg",
+    "static/media/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.47d1e9f5.jpeg": "/static/media/all-about-bananas-nutrition-facts-health-benefits-recipes-and-more-rm-722x406.47d1e9f5.jpeg",
+    "static/media/index.css": "/static/media/background.590a12f3.jpeg",
+    "static/media/balls.f8a772f9.jpeg": "/static/media/balls.f8a772f9.jpeg",
+    "static/media/baseball.41f91e61.jpeg": "/static/media/baseball.41f91e61.jpeg",
+    "static/media/basketball.4881fcbf.jpeg": "/static/media/basketball.4881fcbf.jpeg",
+    "static/media/blueberries-1200x628-facebook-1200x628.7cf7c669.jpeg": "/static/media/blueberries-1200x628-facebook-1200x628.7cf7c669.jpeg",
+    "static/media/bowling.4f71b823.jpeg": "/static/media/bowling.4f71b823.jpeg",
+    "static/media/bueno.65b9b1c8.png": "/static/media/bueno.65b9b1c8.png",
+    "static/media/caramel-biscoff.7873fef3.png": "/static/media/caramel-biscoff.7873fef3.png",
+    "static/media/donuts.f18b50e7.png": "/static/media/donuts.f18b50e7.png",
+    "static/media/download.3c6ce008.jpeg": "/static/media/download.3c6ce008.jpeg",
+    "static/media/football.4c73820b.jpeg": "/static/media/football.4c73820b.jpeg",
+    "static/media/mango.dd446502.jpeg": "/static/media/mango.dd446502.jpeg",
+    "static/media/peaches-in-baskets-on-a-wooden-table.3eabfc32.jpeg": "/static/media/peaches-in-baskets-on-a-wooden-table.3eabfc32.jpeg",
+    "static/media/red-velvet.15490f33.png": "/static/media/red-velvet.15490f33.png",
+    "static/media/skynews-apples-istock_4867989.4df478e9.jpeg": "/static/media/skynews-apples-istock_4867989.4df478e9.jpeg",
+    "static/media/unicorn.2872eaf4.png": "/static/media/unicorn.2872eaf4.png",
+    "static/media/vegan-chocolate.10d7f5bd.png": "/static/media/vegan-chocolate.10d7f5bd.png",
+    "static/media/watermelon.b881e975.jpeg": "/static/media/watermelon.b881e975.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f7397f6.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e6820c0f.chunk.js",
+    "static/css/main.cf2fd682.chunk.css",
+    "static/js/main.997792cc.chunk.js"
+  ]
+}
