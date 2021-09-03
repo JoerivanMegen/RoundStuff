@@ -1,0 +1,149 @@
+.basket-container{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    h2{
+        margin-bottom: 4vh;
+    }
+    a{
+        text-decoration: none;
+        color: $background-secondary;
+        &:hover{
+            color: $hover-secondary;
+        }
+    }
+}
+.basket-card{
+    display: flex;
+    border-bottom: solid $background-secondary 1px;
+    img{
+        width: 20vw;
+        height: 20vw;
+    }
+
+}
+.infoFlex{
+    display: flex;
+}
+.infotext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.buttons-basket{
+    right: 15vw;
+    margin-top: 8vw;
+    position: absolute;
+    display: flex;
+    height: 50px;
+    width: 15vw;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $hover-primary;
+    border-radius: 25px;
+    button{
+        width: 50px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        border: none;
+        background-color: $background-secondary;
+        color: whitesmoke;
+        font-size: 25px;
+        p{
+            margin: 0;
+            padding: 0;
+        }
+        &:hover{
+            background-color: $hover-secondary;
+        }
+    }
+    p{
+        font-size: 30px;
+        margin: 0;
+    }
+}
+.price-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 3vh;
+}
+.purchase-button{
+    width: 100%;
+    border: none;
+    border-radius: 25px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: rgb(236, 173, 77);
+    color: whitesmoke;
+    margin-bottom: 3vh;
+}
+.buttons-basket-mobile{
+    display: none;
+}
+.price-container-mobile{
+    display: none;
+}
+
+@media screen and (max-width: 865px){
+    .price-container{
+        display: none;
+    }
+    .price-container-mobile{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        h4{
+            text-align: right;
+        }
+    }
+    .buttons-basket{
+        display: none;
+    }
+    .buttons-basket-mobile{
+        display: flex;
+        right: 15vw;
+        margin-top: 8vw;
+        margin-bottom: 3vh;
+        display: flex;
+        height: 50px;
+        width: 100%;
+        justify-content: space-between;
+        align-items: center;
+        background-color: $hover-primary;
+        border-radius: 25px;
+        button{
+            width: 50px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            border: none;
+            background-color: $background-secondary;
+            color: whitesmoke;
+            font-size: 25px;
+            p{
+                margin: 0;
+                padding: 0;
+            }
+            &:hover{
+                background-color: $hover-secondary;
+            }
+        }
+        p{
+            font-size: 30px;
+            margin: 0;
+        }
+    }
+    .basket-card{
+        border: none;
+    }
+}
